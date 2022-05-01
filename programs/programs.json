@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Installer",
+    "fileSource": "installer.lua",
+    "fileTarget": "shadownet/installer.lua",
+    "version": 1,
+    "deviceTypes": ["computer", "pocket", "turtle"]
+  },
+  {
+    "name": "Energy Monitor",
+    "fileSource": "computer/energyMonitor.lua",
+    "fileTarget": "energyMonitor.lua",
+    "version": 1,
+    "deviceTypes": ["computer"]
+  },
+  {
+    "name": "Sheep Shearer",
+    "fileSource": "turtle/sheepShearer.lua",
+    "fileTarget": "sheepShearer.lua",
+    "version": 1,
+    "deviceTypes": ["turtle"]
+  }
+]
