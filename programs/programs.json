@@ -3,7 +3,7 @@
     "name": "Installer",
     "fileSource": "installer.lua",
     "fileTarget": "shadownet/installer.lua",
-    "version": 1,
+    "version": 2,
     "deviceTypes": ["computer", "pocket", "turtle"]
   },
   {
